@@ -1,0 +1,76 @@
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\appsettings.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Data\Task.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Data\User.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\core.exe
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\core.deps.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\core.runtimeconfig.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\core.runtimeconfig.dev.json
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\core.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\ref\core.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\core.pdb
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.csproj.CopyComplete
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\ref\core.dll
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.pdb
+C:\Users\huser\Desktop\‏‏תיקיה חדשה\obj\Debug\net5.0\core.genruntimeconfig.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\appsettings.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Data\Task.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Data\User.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\core.exe
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\core.deps.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\core.runtimeconfig.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\core.runtimeconfig.dev.json
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\core.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\ref\core.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\core.pdb
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.AssemblyInfo.cs
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.csproj.CopyComplete
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\ref\core.dll
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.pdb
+Z:\B\גילה קניגסברג\‏‏תיקיה חדשה\obj\Debug\net5.0\core.genruntimeconfig.cache
